@@ -1,0 +1,50 @@
+Module-1
+1.	Explain the philosophy behind enabling machines to think.
+2.	Differentiate between the Heuristic Dendral and Meta Dendral? Also, explain the Mycin, Pxdes and Steamer.
+3.	Interpret the three laws of thought, used in AI?
+4.	Explain the concept of a rational agent, with the help of a suitable diagram.
+5.	Explain the types of AI, with an example for each type.
+6.	Explain the development of artificial neural networks, from 1986 to present.
+7.	Interpret the Knowledge Based Systems?
+8.	Explain the advantages and disadvantages of AI, using the expert system as an example.
+
+Module-2
+1.	What is the difference between agents and intelligent agents?
+2.	Discuss the role of data, from the environment.
+3.	What is an agent function and an agent program?
+4.	How is AI dubbed as good, with respect to it’s agent states?
+5.	Explain the nature of environments.
+6.	Explain the schematic diagram of any one agent.
+
+Module-3
+1.	Write a pseudocode for a simple problem solving agent.
+2.	Illustrate the time and space complexity of a problem solving algorithm?
+3.	Demonstrate how an AI solves the 8 queen’s problem.
+4.	Explain BFS and DFS algorithm?
+5.	Discuss the greedy best first search algorithm that perform better compared to other algorithms?
+6.	Is the A * algorithm based on heuristics? If so, explain then how.
+7.	Is the A O* algorithm based on heuristics? If so, explain then how.
+8.	Define  Constraint Satisfaction Problems with an example.
+9.	Discuss the Bidirectional Search with their properties?
+
+Module-4
+1.	In knowledge-based agents, explain what happens when an agent program is called.
+2.	Does an AI differentiate between atomic and compound propositional logic?
+3.	What advantages and disadvantages does an AI see in propositional logic? Explain.
+4.	Explain how a knowledge engineering first order logic is used in a digital electronic circuit?
+5.	Explain what an AI thinks about a universal quantifier?
+6.	Explain an AI viewpoint of negation, conjunction, disjunction and implication of first order logic.
+Module-5
+1.	What are the advantages and disadvantages of forward and backward state space planning?
+2.	Explain how heuristic planning is better than classical planning.
+3.	Explain with a figure, how do you solve job scheduling problems?
+4.	What is the difference between a goal and a sub-goal?
+5.	Explain about times, schedules and resources.
+6.	What are the four basic things, needed in a search problem?
+
+db.student.insertMany([{Name:"Varun",lang:"Java",score:"90"},{Name:"Jay",lang:"Python",score:"70"},{Name:"Jon",lang:"c++",score:"70"}])
+
+
+Subject: Apology and Notification Regarding Email Delivery Issues
+
+My name is Varun N Gandhi, I am from Maharashtra. I love to code!S
